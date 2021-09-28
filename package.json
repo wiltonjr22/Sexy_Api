@@ -1,0 +1,9 @@
+{
+  "name": "Sexy_api",
+  "version": "1",
+  "description": "",
+  "author": "Wilton",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
